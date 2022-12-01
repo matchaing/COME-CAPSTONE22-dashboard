@@ -1,0 +1,46 @@
+
+nav {
+    text-decoration: none;
+    list-style-type: none;
+    background-color: rgb(243, 243, 243);
+    width:180px;
+    padding: 0;
+    padding-top: 60px;
+    margin: 0;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    z-index: 1;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(37, 37, 37);
+    display: block;
+    width: 100%;
+}
+
+.navbar:hover{
+    width: 100%;
+    background-color: rgb(213, 213, 213);
+}
+
+.icon{
+    float: left;
+    padding-right: 5px;
+}
+
+nav > div {
+    text-decoration: none;
+    display: block;
+    color: #000;
+    padding-left: 18px;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    text-align: left;
+    margin-left: 3px;
+    margin-right: 3px;
+    text-decoration-line: none;
+    font-size: 14px;
+    font-weight: bold;
+}
