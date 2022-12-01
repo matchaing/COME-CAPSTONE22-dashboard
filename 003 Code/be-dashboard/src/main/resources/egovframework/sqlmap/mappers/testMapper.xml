@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="dashboard.fwd.service.TestMapper">
+	<select id = "returnData" resultType = "map" parameterType="dashboard.fwd.domain.ParameterList">
+ 		SELECT *
+ 		<!-- 
+ 		CLIMATEDATANO,
+ 			   REGIONCODE,
+		 	   DAILYDATADT,
+			   DAILYDATATIME,
+			   HUMIDITY,
+			   TEMPERATURE
+			   -->
+ 		FROM ${type}
+ 		WHERE ${dataName} BETWEEN 
+ 			${date[0]} AND ${date[1]}
+	</select>
+
+</mapper>
