@@ -21,26 +21,47 @@
 
 ## System Design
 
+<div>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+</div>
 
 - ### System Requirements
 
-  - API 서버 -> eGovFrame 사용
-  - Auto Encoder -> Flask 사용
-  - 웹 페이지 -> React Framework 사용
+  - 대시보드와 통신하는 API 서버 -> eGovFrame 사용
+  - 이상 데이터를 탐지하는 Auto Encoder -> Flask 사용
+  - 대시보드 웹 페이지 -> React 사용
 
-## Case Study
+## Development Environment
+ - ### Spring API Server
+   - java 16
+   - jdk 16.0.2
+   - IDE : EclipseIDE(eGovFrame)
+   - Framework : egovFrame4.0
+   - Database : MariaDB 
+   
+- ### Auto Encoder Server
+   - python 3.10.1
+   - IDE : Visual Studio Code
+   - Framework : Flask
+   - Database : MariaDB 
+   - 라이브러리 : pandas 1.5.1, numpy 1.23.5, tensorflow 2.11.0, pymysql 1,0,2, sklearn 0.0.post1, sqlalchemy 1.4.44
 
-- ### Description
+- ### Dashboard
+   - Javascript
+   - npm: 8.15.0
+   - node: 16.17.0
+   - IDE : Visual Studio Code
+   - Framework : React  
+
 
 ## Installing and Running
 
@@ -58,8 +79,10 @@
 ## Conclusion
 
 - ### 데이터 확인 가능
+![image](https://user-images.githubusercontent.com/69198709/205867843-c337b8d1-9699-432b-9336-930648cb2336.png)
 
 - ### 이상 데이터 그래프
+![image](https://user-images.githubusercontent.com/69198709/205867904-d6b54a4d-4b70-4830-8c86-c195942fcc3d.png)
 
 - ### 활용방안
 
