@@ -1,9 +1,9 @@
 info = {
-        "db" : "kepri_data",
-        "host" : "127.0.0.1",
-        "user":"root",
-        "passwd":"1234",
-        "port" : 3306,
-        "charset":"utf8",
-        "column":'kepri_data.tb_gochang_data'
+        "db" : "DB이름",
+        "host" : "호스트",
+        "user":"사용자",
+        "passwd":"비밀번호",
+        "port" : "포트번호",
+        "charset":"인코딩방식",
+        "column":'사용할컬럼'
         }
