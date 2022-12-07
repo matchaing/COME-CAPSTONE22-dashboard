@@ -36,7 +36,7 @@
 </div>
 
 - ### System Requirements
-
+<img src="https://user-images.githubusercontent.com/97873594/206106166-0d8195ea-9854-42f8-80c8-526cf22d3332.png" width=800, height=400/>
   - 대시보드와 통신하는 API 서버 -> eGovFrame 사용
   - 이상 데이터를 탐지하는 Auto Encoder -> Flask 사용
   - 대시보드 웹 페이지 -> React 사용
