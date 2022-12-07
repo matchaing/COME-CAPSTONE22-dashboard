@@ -77,8 +77,8 @@
 - ### Dashboard
   `Visual Studio Code 프로젝트 생성 -> 터미널에 ‘npm run start’ 입력`
   
-## Case Study
-### 1. 멘토링 진행
+## Mentoring
+### 멘토링 진행
    - 2022.10.12 기업체 멘토 분과 멘토링 진행
    - 백엔드, 프론트엔드, 오토인코더 각각 질의응답을 통해 개발 방향을 설정함
   
