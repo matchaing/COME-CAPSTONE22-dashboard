@@ -2,7 +2,7 @@
 
 
 ## 개발환경
-----
+
 - python 3.10.1
 - IDE : Visual Studio Code
 - Framework : Flask
@@ -12,7 +12,7 @@
 </br></br>
 
 ## 실행
-----
+
 ```
 1) Visual Studio Code 프로젝트 생성
 2) mysql_auth.py에 DB 정보 수정
