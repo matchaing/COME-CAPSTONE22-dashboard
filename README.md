@@ -36,7 +36,9 @@
 </div>
 
 - ### System Requirements
+
 <img src="https://user-images.githubusercontent.com/97873594/206106166-0d8195ea-9854-42f8-80c8-526cf22d3332.png" width=800, height=400/>
+
   - 대시보드와 통신하는 API 서버 -> eGovFrame 사용
   - 이상 데이터를 탐지하는 Auto Encoder -> Flask 사용
   - 대시보드 웹 페이지 -> React 사용
@@ -98,6 +100,7 @@
   <img src="https://user-images.githubusercontent.com/69198709/204220442-29104fb0-e92f-4c57-83a1-b16e135c63af.png" width="40%" height="60%">
   <img src="https://user-images.githubusercontent.com/69198709/206104374-b4fdce15-6277-4682-998f-8acac650ba50.GIF" width="40%" height="60%">
  </p>
+ 
 - ### 활용방안
   - 현재 기업 데이터에 맞추어 개발을 했지만, 해당 데이터 외에 다른 데이터를 연결하여 사용할 수 있다. 백엔드, 프론트엔드 사이의 API 통신을 구축해놓아 일부 코드만 수정한다면 사용자가 원하는 방식으로 활용할 수 있을 것이다.
   - 서버 및 DB연결이 필요한 경우 자잘한 코드 개발 시간을 줄일 수 있어 효율적이다.
