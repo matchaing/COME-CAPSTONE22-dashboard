@@ -88,9 +88,12 @@
 
 - ### 데이터 확인 가능
 ![image](https://user-images.githubusercontent.com/69198709/205867843-c337b8d1-9699-432b-9336-930648cb2336.png)
+
 ![IMG_3994](https://user-images.githubusercontent.com/69198709/206104379-d124fac7-20fa-443a-a740-5e63e29957aa.GIF)
+
 - ### 이상 데이터 그래프
   ![image](https://user-images.githubusercontent.com/69198709/205867904-d6b54a4d-4b70-4830-8c86-c195942fcc3d.png)
+  
   ![IMG_3996](https://user-images.githubusercontent.com/69198709/206104374-b4fdce15-6277-4682-998f-8acac650ba50.GIF)
   
 - ### 활용방안
