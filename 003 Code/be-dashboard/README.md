@@ -1,4 +1,4 @@
-# Backend dDshboard
+# Backend Dashboard
 jsp파일
 1. main.jsp
 2. detail.jsp
