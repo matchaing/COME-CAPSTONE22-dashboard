@@ -1,4 +1,3 @@
-# 한밭대학교 컴퓨터공학과 불사조 팀
 
 ## **데이터 모니터링이 가능한 대시보드 개발 (Develop dashboard for data monitoring)**
 
