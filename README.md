@@ -1,12 +1,6 @@
 
 ## **데이터 모니터링이 가능한 대시보드 개발 (Develop dashboard for data monitoring)**
 
-**팀 구성**
-
-- 20191743 이민주
-- 20191775 백아름
-- 20191777 송민지
-
 ## 불사조 팀 Project Background
 
 - ### 필요성
